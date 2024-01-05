@@ -11,7 +11,7 @@ const LoggingToken = "hey"
 
 // As js every variable is object here it is of types
 func main() {
-	var username string = "Jyoti"
+	var username string = "Jyoti Kumari"
 	fmt.Println(username)
 	//placeholder %T for type and \n for new line
 	fmt.Printf("variable is of type: %T \n", username)
